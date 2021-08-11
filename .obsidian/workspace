@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "a2afae6336458c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dfd4615c1282173",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.提纲.md",
+            "mode": "source"
+          }
+        },
+        "group": "2bff959e4dbb2e02"
+      },
+      {
+        "id": "52596db4dbe2fbcf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0.提纲.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2bff959e4dbb2e02"
+      },
+      {
+        "id": "c1a3caa5de5df40f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.java复习/io.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdd0de82b74208aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5774fde8f2246052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2cfaf5e918fd35b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f94b56e11152c985",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Runnable",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "679a91fb27922b58",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6693754d209e3dd",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e0ff9f251301287",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef4e702455ed2fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa9ad75a4a584346",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.java复习/io.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e9de799d4efd5bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "6788835c229fd7a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.java复习/io.md"
+              }
+            }
+          },
+          {
+            "id": "3ff37d0b6876e657",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4152964c6af25737",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5,
+    "collapsed": true
+  },
+  "active": "c1a3caa5de5df40f",
+  "lastOpenFiles": [
+    "1.java复习/io.md",
+    "0.提纲.md",
+    "1.java复习/未命名.md",
+    "3.spring/链路.md",
+    "3.spring/未命名.md",
+    "4.数据存储/redis/数据淘汰机制.md",
+    "4.数据存储/redis/分布式锁.md",
+    "4.数据存储/事务隔离.md",
+    "2.spring_boot/未命名.md",
+    "2.spring_boot/事务.md"
+  ]
+}
