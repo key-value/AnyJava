@@ -3,10 +3,10 @@
 # 内部代码
 ```
 static final class Segment<K,V> extends ReentrantLock implements Serializable { 
-transient volatile int count;
-transient int modCount;
-transient int threshold;
-transient volatile HashEntry<K,V>[] table;
+	transient volatile int count;
+	transient int modCount;
+	transient int threshold;
+	transient volatile HashEntry<K,V>[] table;
 final float loadFactor; }
 ```
 
