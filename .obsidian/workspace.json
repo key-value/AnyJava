@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.java复习/多线程/并发并行.md",
+                "file": "6.设计模式/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.java复习/多线程/并发并行.md",
+                "file": "6.设计模式/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.java复习/多线程/并发并行.md"
+                "file": "6.设计模式/未命名.md"
               }
             }
           },
@@ -183,20 +183,35 @@
   },
   "active": "779f01ae025e6131",
   "lastOpenFiles": [
+    "1.java复习/基础/泛型.md",
+    "6.设计模式/未命名.md",
+    "1.java复习/多线程/threadLocal.md",
+    "1.java复习/多线程/线程状态.md",
+    "1.java复习/多线程/线程进程.md",
+    "1.java复习/多线程/线程池的拒绝策略.md",
+    "4.数据存储/mysql/大数据量如何删除.md",
+    "5.队列/kafka/概述.md",
+    "计算机网络/七层协议.md",
+    "领域驱动设计/战略战术设计.md",
+    "1.java复习/集合/collection.md",
+    "6.设计模式",
+    "1.java复习/集合/ArrayList.md",
+    "1.java复习/集合/Array.md",
+    "1.java复习/集合/常用容器.md",
+    "1.java复习/集合/ConcurrentHashMap的结构.md",
+    "1.java复习/集合/HashMap.md",
+    "1.java复习/集合/hasSet.md",
+    "1.java复习/集合/Segment.md",
+    "1.java复习/代理/动态代理.md",
+    "1.java复习/多线程/线程池.md",
+    "1.java复习/多线程/并行计算框架.md",
+    "Pasted image 20210817195715.png",
+    "Pasted image 20210817200101.png",
+    "1.java复习/多线程/并发并行.md",
     "1.java复习/代理/静态代理.md",
     "1.java复习/代理/反射.md",
-    "1.java复习/代理/动态代理.md",
-    "1.java复习/多线程/并发并行.md",
     "4.数据存储/redis/分布式锁.md",
     "4.数据存储/事务隔离.md",
-    "4.数据存储/redis/数据淘汰机制.md",
-    "4.数据存储/redis/数据类型.md",
-    "4.数据存储/redis/单线程模型.md",
-    "4.数据存储/redis/阻塞点.md",
-    "4.数据存储/redis/IO多路复用.md",
-    "4.数据存储/事务隔离级别.md",
-    "1.java复习/io.md",
-    "1.java复习/锁/锁模型提纲.md",
     "Pasted image 20210714001509.png",
     "Pasted image 20210717115701.png",
     "Pasted image 20210714001456.png",
@@ -205,20 +220,6 @@
     "Pasted image 20210730193313.png",
     "Pasted image 20210729133133.png",
     "Pasted image 20210728124128.png",
-    "Pasted image 20210721232943.png",
-    "Pasted image 20210722000942.png",
-    "README.md",
-    "1.java复习/锁/synchronized原理图.md",
-    "1.java复习/锁/volatile.md",
-    "1.java复习/JVM/垃圾回收/垃圾可以回收的方法.md",
-    "1.java复习/JVM/垃圾回收/分代回收.md",
-    "1.java复习/JVM/垃圾回收/浮动垃圾.md",
-    "1.java复习/JVM/垃圾回收/垃圾收集器/G1 收集器.md",
-    "1.java复习/JVM/垃圾回收/垃圾收集器/cms.md",
-    "1.java复习/JVM/垃圾回收/垃圾收集器/收集器.md",
-    "1.java复习/JVM/垃圾回收/垃圾收集算法.md",
-    "1.java复习/JVM/垃圾回收/内存泄露.md",
-    "1.java复习/JVM/垃圾回收/引用.md",
     "未命名.canvas"
   ]
 }
