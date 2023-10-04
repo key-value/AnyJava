@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb9de4690933f49",
+        "id": "f86859599573a64b",
         "type": "tabs",
         "children": [
           {
-            "id": "2c1b9de45283c619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.java复习/基础/数据类型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "779f01ae025e6131",
+            "id": "e9710bfe294fadb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
               "type": "backlink",
               "state": {
                 "file": "6.设计模式/未命名.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -163,12 +150,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 209.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,45 +167,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "779f01ae025e6131",
+  "active": "e9710bfe294fadb8",
   "lastOpenFiles": [
+    "1.java复习/基础/数据类型.md",
+    "1.java复习/基础/类型比较.md",
+    "1.java复习/基础/类.md",
     "1.java复习/基础/泛型.md",
+    "1.java复习/多线程/线程池.md",
+    "1.java复习/多线程/堵塞队列.md",
+    "1.java复习/多线程/并行计算框架.md",
+    "1.java复习/多线程/并发并行.md",
+    "1.java复习/代理/动态代理.md",
+    "1.java复习/代理/反射.md",
+    "1.java复习/代理/静态代理.md",
     "6.设计模式/未命名.md",
+    "未命名.canvas",
+    "6.设计模式/未命名 1.md",
+    "组成原理.md",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "Pasted image 20210817200101.png",
+    "Pasted image 20210817195715.png",
+    "Pasted image 20210817195123.png",
+    "Pasted image 20210815213908.png",
+    "Pasted image 20210815154055.png",
+    "Pasted image 20210813132457.png",
+    "Pasted image 20210812232057.png",
+    "Pasted image 20210812231902.png",
+    "Pasted image 20210812231800.png",
+    "Pasted image 20210810124521.png",
+    "1.java复习/io.md",
+    "1.java复习/JVM/数据引用分类.md",
+    "1.java复习/JVM/类加载器.md",
+    "1.java复习/JVM/垃圾回收/垃圾收集器/收集器.md",
+    "1.java复习/JVM/垃圾回收/垃圾收集器/cms.md",
+    "1.java复习/JVM/运行时数据区域.md",
+    "1.java复习/JVM/jvm 基础.md",
+    "4.数据存储/mysql/大数据量如何删除.md",
     "1.java复习/多线程/threadLocal.md",
     "1.java复习/多线程/线程状态.md",
     "1.java复习/多线程/线程进程.md",
     "1.java复习/多线程/线程池的拒绝策略.md",
-    "4.数据存储/mysql/大数据量如何删除.md",
-    "5.队列/kafka/概述.md",
-    "计算机网络/七层协议.md",
-    "领域驱动设计/战略战术设计.md",
-    "1.java复习/集合/collection.md",
-    "6.设计模式",
-    "1.java复习/集合/ArrayList.md",
-    "1.java复习/集合/Array.md",
-    "1.java复习/集合/常用容器.md",
-    "1.java复习/集合/ConcurrentHashMap的结构.md",
-    "1.java复习/集合/HashMap.md",
-    "1.java复习/集合/hasSet.md",
-    "1.java复习/集合/Segment.md",
-    "1.java复习/代理/动态代理.md",
-    "1.java复习/多线程/线程池.md",
-    "1.java复习/多线程/并行计算框架.md",
-    "Pasted image 20210817195715.png",
-    "Pasted image 20210817200101.png",
-    "1.java复习/多线程/并发并行.md",
-    "1.java复习/代理/静态代理.md",
-    "1.java复习/代理/反射.md",
-    "4.数据存储/redis/分布式锁.md",
-    "4.数据存储/事务隔离.md",
-    "Pasted image 20210714001509.png",
-    "Pasted image 20210717115701.png",
-    "Pasted image 20210714001456.png",
-    "Pasted image 20210629155009.png",
-    "Pasted image 20210322221542.png",
-    "Pasted image 20210730193313.png",
-    "Pasted image 20210729133133.png",
-    "Pasted image 20210728124128.png",
-    "未命名.canvas"
+    "6.设计模式"
   ]
 }
