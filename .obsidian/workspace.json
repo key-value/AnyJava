@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f86859599573a64b",
+        "id": "6676fe45abbc1eec",
         "type": "tabs",
         "children": [
           {
-            "id": "e9710bfe294fadb8",
+            "id": "d8de139904809c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.设计模式/未命名.md",
+                "file": "6.设计模式/纲要.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d2bcaa34f73e0d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.设计模式/分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.设计模式/未命名.md",
+                "file": "6.设计模式/分析.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.设计模式/未命名.md"
+                "file": "6.设计模式/分析.md"
               }
             }
           },
@@ -150,11 +163,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +181,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9710bfe294fadb8",
+  "active": "9d2bcaa34f73e0d3",
   "lastOpenFiles": [
+    "6.设计模式/纲要.md",
+    "6.设计模式/分析.md",
+    "6.设计模式/Spring 设计模式总结.md",
+    "6.设计模式/设计原则.md",
+    "1.java复习/JVM/类加载器.md",
+    "1.java复习/JVM/数据引用分类.md",
+    "1.java复习/JVM/jvm 基础.md",
+    "1.java复习/io.md",
+    "能力分析.md",
+    "未命名.canvas",
     "1.java复习/基础/数据类型.md",
     "1.java复习/基础/类型比较.md",
     "1.java复习/基础/类.md",
@@ -180,9 +204,6 @@
     "1.java复习/代理/动态代理.md",
     "1.java复习/代理/反射.md",
     "1.java复习/代理/静态代理.md",
-    "6.设计模式/未命名.md",
-    "未命名.canvas",
-    "6.设计模式/未命名 1.md",
     "组成原理.md",
     "未命名 3.canvas",
     "未命名 2.canvas",
@@ -197,18 +218,11 @@
     "Pasted image 20210812231902.png",
     "Pasted image 20210812231800.png",
     "Pasted image 20210810124521.png",
-    "1.java复习/io.md",
-    "1.java复习/JVM/数据引用分类.md",
-    "1.java复习/JVM/类加载器.md",
     "1.java复习/JVM/垃圾回收/垃圾收集器/收集器.md",
     "1.java复习/JVM/垃圾回收/垃圾收集器/cms.md",
     "1.java复习/JVM/运行时数据区域.md",
-    "1.java复习/JVM/jvm 基础.md",
     "4.数据存储/mysql/大数据量如何删除.md",
     "1.java复习/多线程/threadLocal.md",
-    "1.java复习/多线程/线程状态.md",
-    "1.java复习/多线程/线程进程.md",
-    "1.java复习/多线程/线程池的拒绝策略.md",
     "6.设计模式"
   ]
 }
