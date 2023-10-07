@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.设计模式/分析.md",
+                "file": "4.数据存储/事务隔离级别.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.设计模式/分析.md",
+                "file": "4.数据存储/事务隔离级别.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.设计模式/分析.md"
+                "file": "4.数据存储/事务隔离级别.md"
               }
             }
           },
@@ -183,8 +183,12 @@
   },
   "active": "9d2bcaa34f73e0d3",
   "lastOpenFiles": [
-    "6.设计模式/纲要.md",
+    "4.数据存储/事务隔离.md",
+    "4.数据存储/事务隔离级别.md",
+    "4.数据存储/分布式.md",
+    "4.数据存储/未命名.md",
     "6.设计模式/分析.md",
+    "6.设计模式/纲要.md",
     "6.设计模式/Spring 设计模式总结.md",
     "6.设计模式/设计原则.md",
     "1.java复习/JVM/类加载器.md",
@@ -219,10 +223,6 @@
     "Pasted image 20210812231800.png",
     "Pasted image 20210810124521.png",
     "1.java复习/JVM/垃圾回收/垃圾收集器/收集器.md",
-    "1.java复习/JVM/垃圾回收/垃圾收集器/cms.md",
-    "1.java复习/JVM/运行时数据区域.md",
-    "4.数据存储/mysql/大数据量如何删除.md",
-    "1.java复习/多线程/threadLocal.md",
     "6.设计模式"
   ]
 }
