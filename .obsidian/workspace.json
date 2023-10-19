@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.设计模式/纲要.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d2bcaa34f73e0d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.java复习/锁/cas.md",
+                "file": "1.java复习/锁/synchronized结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.java复习/锁/cas.md",
+                "file": "1.java复习/锁/synchronized结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.java复习/锁/cas.md"
+                "file": "1.java复习/锁/synchronized结构.md"
               }
             }
           },
@@ -181,34 +168,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d2bcaa34f73e0d3",
+  "active": "d8de139904809c2c",
   "lastOpenFiles": [
-    "1.java复习/锁/AQS.md",
-    "1.java复习/锁/cas.md",
+    "1.java复习/锁/synchronized的实现原理.md",
     "1.java复习/锁/信号量.md",
     "1.java复习/锁/锁模型提纲.md",
-    "1.java复习/集合/Segment.md",
-    "1.java复习/集合/hasSet.md",
-    "1.java复习/集合/HashMap.md",
-    "1.java复习/集合/ConcurrentHashMap的结构.md",
-    "1.java复习/集合/collection.md",
-    "1.java复习/集合/ArrayList.md",
-    "1.java复习/集合/Array.md",
-    "1.java复习/集合/常用容器.md",
-    "1.java复习/基础/泛型.md",
+    "1.java复习/基础/类型比较.md",
     "1.java复习/基础/异常.md",
     "1.java复习/基础/String.md",
-    "1.java复习/基础/Object.md",
-    "1.java复习/基础/数据类型.md",
-    "1.java复习/基础/类型比较.md",
-    "1.java复习/基础/类.md",
-    "1.java复习/多线程/并发并行.md",
-    "1.java复习/多线程/并行计算框架.md",
-    "1.java复习/多线程/堵塞队列.md",
-    "1.java复习/多线程/线程池.md",
-    "1.java复习/多线程/线程池的拒绝策略.md",
+    "1.java复习/锁/AQS.md",
+    "1.java复习/锁/cas.md",
     "1.java复习/多线程/线程进程.md",
+    "1.java复习/基础/泛型.md",
+    "1.java复习/基础/数据类型.md",
+    "1.java复习/基础/类.md",
+    "1.java复习/多线程/threadLocal.md",
     "1.java复习/多线程/线程状态.md",
+    "1.java复习/多线程/线程池的类型.md",
+    "1.java复习/多线程/线程池的拒绝策略.md",
+    "1.java复习/多线程/线程池.md",
+    "1.java复习/多线程/堵塞队列.md",
+    "1.java复习/多线程/并行计算框架.md",
+    "1.java复习/多线程/并发并行.md",
+    "1.java复习/锁/synchronized原理图.md",
+    "1.java复习/锁/volatile.md",
+    "1.java复习/锁/synchronized锁升级.md",
+    "1.java复习/锁/synchronized结构.md",
+    "0.提纲.md",
+    "1.java复习/集合/collection.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "Pasted image 20210817195123.png",
     "Pasted image 20210817195715.png",
     "Pasted image 20210817200101.png",
@@ -219,10 +208,8 @@
     "Pasted image 20210812231902.png",
     "Pasted image 20210812231800.png",
     "Pasted image 20210810124521.png",
-    "未命名.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
-    "未命名 1.canvas",
     "6.设计模式"
   ]
 }
