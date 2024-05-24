@@ -37,9 +37,11 @@
             "id": "b21040c03abb0ed7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2261713950703_.pic.jpg"
+                "file": "计算机网络/七层协议.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2261713950703_.pic.jpg",
+                "file": "计算机网络/七层协议.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2261713950703_.pic.jpg"
+                "file": "计算机网络/七层协议.md"
               }
             }
           },
@@ -195,9 +197,12 @@
   },
   "active": "b21040c03abb0ed7",
   "lastOpenFiles": [
+    "2141710832245_.pic.jpg",
     "2271713950703_.pic.jpg",
     "2261713950703_.pic.jpg",
-    "2141710832245_.pic.jpg",
+    "6.设计模式/单例-枚举.md",
+    "6.设计模式/单例模式.md",
+    "1.java复习/多线程/线程池的类型.md",
     "Pasted image 20210322221542.png",
     "编程知识.md",
     "操作系统.md",
@@ -221,16 +226,12 @@
     "4.数据存储/mysql/执行过程.md",
     "4.数据存储/mysql/锁.md",
     "4.数据存储/mysql/架构.md",
-    "4.数据存储/mysql/大数据量如何删除.md",
-    "3.spring/链路.md",
-    "2.spring_boot/Spring framework.md",
     "Pasted image 20210802003246.png",
     "Pasted image 20210803115900.png",
     "Pasted image 20210804182721.png",
     "Pasted image 20210805151252.png",
     "Pasted image 20210807131258.png",
     "Pasted image 20210808005227.png",
-    "Pasted image 20210808005441.png",
     "未命名.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",
