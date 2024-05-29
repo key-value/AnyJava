@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.spring_boot/容器/Spring条件化装配Bean.md",
+                "file": "2.spring_boot/容器/使用注解配置AOP切面.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.spring_boot/容器/Spring条件化装配Bean.md",
+                "file": "2.spring_boot/容器/使用注解配置AOP切面.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.spring_boot/容器/Spring条件化装配Bean.md"
+                "file": "2.spring_boot/容器/使用注解配置AOP切面.md"
               }
             }
           },
@@ -195,21 +195,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2cfaf5e918fd35b",
+  "active": "12f8c0618afe0da9",
   "lastOpenFiles": [
-    "2.spring_boot/容器/使用注解配置AOP切面.md",
-    "2.spring_boot/容器/Spring条件化装配Bean.md",
-    "2.spring_boot/mybatis/MyBatis Cache.md",
     "2.spring_boot/容器/初始化过程.md",
+    "2.spring_boot/容器/SpEL表达式.md",
+    "2.spring_boot/容器/Spring Bean生命周期.md",
+    "2.spring_boot/容器/spring boot 源码解析.md",
+    "2.spring_boot/容器/Spring条件化装配Bean.md",
+    "2.spring_boot/容器/BeanDefinition.md",
+    "2.spring_boot/容器/使用注解配置AOP切面.md",
+    "2.spring_boot/mybatis/MyBatis Cache.md",
     "2.spring_boot/mybatis",
     "2.spring_boot/容器/线程安全.md",
     "2.spring_boot/容器/循环依赖的问题.md",
     "2.spring_boot/容器/bean.md",
     "2.spring_boot/容器/bean 作用域.md",
-    "2.spring_boot/容器/BeanDefinition.md",
-    "2.spring_boot/容器/SpEL表达式.md",
-    "2.spring_boot/容器/Spring Bean生命周期.md",
-    "2.spring_boot/容器/spring boot 源码解析.md",
     "2.spring_boot/事务.md",
     "需求池/看板系统.md",
     "2.spring_boot/工作原理.md",
