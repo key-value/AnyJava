@@ -2,7 +2,7 @@
 
 除了使用 XML 配置 AOP 切面，我们还可以使用更简洁的注解配置。
 
-现使用注解修改 Audience 类：
+现使用注解修改 Audience 类： 
 
 ```
 import org.aspectj.lang.ProceedingJoinPoint;
