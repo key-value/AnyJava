@@ -79,3 +79,33 @@ public User getUserById(long id){
 ```
 
 Spring Security 在 SpEL 中提供了名为 returnObject 的变量。在这里方法返回一个 User 对象，所以这个表达式可以直接访问 user 对象中的 userName 属性。
+
+## 基于数据库用户认证
+
+修改spring-security配置：
+```
+<bean id="datasource"   
+    class="org.springframework.jdbc.datasource.DriverManagerDataSource"   
+    p:driverClassName="com.mysql.jdbc.Driver"   
+    p:url="jdbc:mysql://localhost:3306/security?useUnicode=true&characterEncoding=UTF-8"   
+    p:username="root"   
+    p:password="123456"/>  
+
+<jdbc-user-service id="user_service"  
+    data-source-ref="datasource"  
+    users-by-username-query="select username,password,status as enabled  
+                            from user  
+                            where username=?"   
+    authorities-by-username-query="select u.username,r.name as authority  
+                            from user u  
+                            join user_role ur  
+                            on u.id=ur.user_id  
+                            join role r  
+                            on r.id=ur.role_id  
+                            where u.username=?"/>
+```
+
+
+`users-by-username-query`为根据用户名查找用户，系统通过传入的用户名查询当前用户的登录名，密码和是否被禁用这一状态。
+
+`authorities-by-username-query`为根据用户名查找权限，系统通过传入的用户名查询当前用户已被授予的所有权限。
