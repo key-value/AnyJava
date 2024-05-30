@@ -18,15 +18,10 @@ Spring Security 提供了三种不同的安全注解：
 例如只有拥有权限“ROLE_ADMIN”的用户才能访问下面这个方法：
 
 ```
-|   |   |
-|---|---|
-|1
-2
-3
-4|@Secured("ROLE_ADMIN")
+@Secured("ROLE_ADMIN")
 public void test(){
     ...
-}|
+}
 ```
 
 权限不足时，方法抛出 Access Denied 异常。
