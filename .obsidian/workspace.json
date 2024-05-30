@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.java复习/插入式注解/自动注入一个版本号字段.md",
+                "file": "1.java复习/锁/ReentrantReadWriteLock.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.java复习/插入式注解/自动注入一个版本号字段.md",
+                "file": "1.java复习/锁/ReentrantReadWriteLock.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.java复习/插入式注解/自动注入一个版本号字段.md"
+                "file": "1.java复习/锁/ReentrantReadWriteLock.md"
               }
             }
           },
@@ -197,8 +197,10 @@
   },
   "active": "12f8c0618afe0da9",
   "lastOpenFiles": [
-    "1.java复习/多线程/线程池的类型.md",
+    "1.java复习/锁/AQS.md",
+    "1.java复习/锁/ReentrantReadWriteLock.md",
     "1.java复习/插入式注解/自动注入一个版本号字段.md",
+    "1.java复习/多线程/线程池的类型.md",
     "1.java复习/未命名 1",
     "1.java复习/插入式注解",
     "1.java复习/多线程/线程池的拒绝策略.md",
@@ -224,8 +226,6 @@
     "2.spring_boot/容器/bean 作用域.md",
     "2.spring_boot/事务.md",
     "需求池/看板系统.md",
-    "2.spring_boot/工作原理.md",
-    "计算机网络/七层协议.md",
     "2141710832245_.pic.jpg",
     "2271713950703_.pic.jpg",
     "2261713950703_.pic.jpg",
